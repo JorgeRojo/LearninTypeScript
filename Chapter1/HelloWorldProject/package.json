@@ -1,0 +1,16 @@
+{
+  "name": "hello-world-project",
+  "version": "1.0.0",
+  "description": "hello-world-project",
+  "main": "index.js",
+  "repository": "git@github.com:JorgeRojo/LearninTypeScript.git/Chapter1/HelloWorldProject",
+  "author": "Jorge Rojo <jrojo@redpoints.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.1-rc"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc -w"
+  }
+}
